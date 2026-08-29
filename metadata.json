@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA — PSG iTech Astronomy Club",
+  "description": "Official website and Digital Observatory of ASTRA Astronomy Club, PSG Institute of Technology and Applied Research (PSG iTech), Coimbatore.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
